@@ -16,7 +16,5 @@
 <a href="https://codeforces.com/profile/issilva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="issilva" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issilva5&layout=compact" alt="issilva5" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issilva5&show_icons=true" alt="issilva5" /></p>
 
