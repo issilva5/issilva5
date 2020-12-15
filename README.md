@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **AgroAnalytics at Distributed Systems Lab**
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+- 🌱 I’m currently learning **Machine Learning, Data Science and NLP**
 
 - 📫 How to reach me **itallo.silva@ccc.ufcg.edu.br**
 
