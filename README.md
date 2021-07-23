@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/ítallo-silva/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ítallo-silva/" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/issilv4" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="issilv4" height="30" width="40" />
-  </a>
   <a href="https://codeforces.com/profile/issilva" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="issilva" height="30" width="40" />
   </a>
@@ -22,8 +19,5 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=issilva5&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issilva5&layout=compact&theme=radical&hide=makefile&langs_count=8" />
   </a>
 </div>
