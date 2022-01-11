@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ítallo Silva</h1>
 
-- 🔭 I’m currently working on **AgroAnalytics at Distributed Systems Lab**
+- 🔭 I’m currently working at **VTEX Lab @ UFCG**
 
 - 🌱 I’m currently learning **Machine Learning, Data Science and NLP**
 
